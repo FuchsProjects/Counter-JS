@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(49, 49, 49);
+    color:rgb(80, 238, 31);
+    text-align: center;
+    text-decoration-color: blue;
+}
+
+*{
+    font-family: sans-serif, cursive;
+    font-style: oblique;
+}
